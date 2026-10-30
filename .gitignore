@@ -1,0 +1,6 @@
+bin/
+obj/
+.tools/
+dist/
+tests/bin/
+tests/obj/

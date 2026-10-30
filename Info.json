@@ -1,0 +1,9 @@
+{
+  "Id": "DVTrainSpeedLimit",
+  "DisplayName": "Whole Train Speed Limit",
+  "Author": "dv-speed-limit",
+  "Version": "0.3.2",
+  "ManagerVersion": "0.27.3",
+  "AssemblyName": "DVTrainSpeedLimit.dll",
+  "EntryMethod": "DVTrainSpeedLimit.Main.Load"
+}

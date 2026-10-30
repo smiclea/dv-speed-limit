@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="../src/LimitMath.cs" Link="LimitMath.cs" />
+    <Compile Include="../src/SignGeometry.cs" Link="SignGeometry.cs" />
+    <Compile Include="../src/RegionCache.cs" Link="RegionCache.cs" />
+    <Compile Include="../src/ObservedRoute.cs" Link="ObservedRoute.cs" />
+    <Compile Include="Program.cs" />
+  </ItemGroup>
+</Project>
